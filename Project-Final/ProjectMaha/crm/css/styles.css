@@ -1,0 +1,36 @@
+header h1.mdl-layout-title {
+    font-size: 50px;
+    color: white;
+}
+
+nav a {
+  font-size: 100000px;
+}
+
+table {
+  table-layout: auto;
+  width: 710px;
+}
+
+.profile {
+   background-color:rgb(155, 4, 4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;  
+    border-radius: 25%;
+}
+
+.page-content {
+  padding-left: 100px;   
+}
+
+
+
+
